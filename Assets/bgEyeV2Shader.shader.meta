@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: c458b8ef284629b44b76573ee12ec4bb
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _MainTex: {instanceID: 0}
+  - _BGTex: {instanceID: 0}
+  - _IrisTex: {instanceID: 0}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
